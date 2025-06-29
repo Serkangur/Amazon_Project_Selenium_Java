@@ -58,7 +58,7 @@ git clone https://github.com/Serkangur/Amazon_Project_Selenium_Java.git
 If you would like to get in touch:
 
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/serkan-g%C3%BCr-a0817420b/)
-- 📧 E-posta: serkangur002@gmail.com
+- 📧 Email: serkangur002@gmail.com
 
 
 
